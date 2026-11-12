@@ -1,6 +1,6 @@
 # Luis Otávio
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Frontend`**
 
 Me chamo Luis Otávio Roriz Almeida, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio na cidade de São Francisco do Glória. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAMINAS-Muriaé, trabalho na Câmara Municipal de São Francisco do Glória. Me identifico muito com a área de tecnologia, gosto de estudar e de entender todo tipo de conteúdo.
 <p align="left">
