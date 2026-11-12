@@ -1,8 +1,117 @@
+luisOtavio-007
+luisOtavio-007
+Repository navigation
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+Settings
+Files
+Go to file
+t
+T
+README.md
+luisOtavio-007/luisOtavio-007 is a special repository: its README.md will appear on your profile!
+luisOtavio-007
+/
+README.md
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+Editing README.md file contents
+ 
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 47
+ 48
+ 49
+ 50
+ 51
+ 52
+ 53
+ 54
+ 55
+ 56
+ 57
+ 58
+ 59
+ 60
+ 61
+ 62
+ 63
+ 64
+ 65
+ 66
+ 67
+ 68
+ 69
+ 70
+ 71
 # Luis Otávio
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Luis Otávio Roriz Almeida, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio na cidade de São Francisco do Glória. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAMINAS-Muriaé, trabalho na Câmara Municipal de São Francisco do Glória. Me identifico muito com a área de tecnologia, gosto de estudar e de entender todo tipo de conteúdo. Meu LinkedIn "(www.linkedin.com/in/luis-otávio-roriz-almeida-278350429)".
+Me chamo Luis Otávio Roriz Almeida, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio na cidade de São Francisco do Glória. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAMINAS-Muriaé, trabalho na Câmara Municipal de São Francisco do Glória. Me identifico muito com a área de tecnologia, gosto de estudar e de entender todo tipo de conteúdo.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luis-otávio-roriz-almeida-278350429" target="_blank">
@@ -69,96 +178,6 @@ Me chamo Luis Otávio Roriz Almeida, tenho 19 anos e sou natural de Minas Gerais
 <img
     align="left"
     alt="React"
-    title="React"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-    align="left"
-    alt="Next.js"
-    title="Next.js"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-/>
-<img
-    align="left"
-    alt="Bootstrap"
-    title="Bootstrap"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-/>
-<img
-    align="left"
-    alt="Tailwind"
-    title="Tailwind"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
-<img
-    align="left"
-    alt="SASS"
-    title="SASS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-/>
-<img
-    align="left"
-    alt="PHP"
-    title="PHP"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-<img
-    align="left"
-    alt="Laravel"
-    title="Laravel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
-/>
-<img
-    align="left"
-    alt="JQuery"
-    title="JQuery"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"
-/>
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
- -->
-
-<br/>
-<br/>
-
-<!-- ### 📊 Estatísticas
-
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-<img
-      align="left"
-      alt="GitHub Stats"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-
-</p> -->
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+Nenhum arquivo escolhido
+Attach files by dragging & dropping, selecting or pasting them.
